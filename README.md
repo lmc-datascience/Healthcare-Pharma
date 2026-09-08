@@ -120,8 +120,11 @@ The goal is to demonstrate expertise in **Power BI, DAX, data modeling, and exec
 
 ---
 
-## 📥 File
-- [Download Dashboard PDF](./Healthcare_Pharma.pdf)
+## 📊 Live Dashboard
+
+▶️ **[Open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ2OGJiMGQtZjJjZS00OGYzLTljYjktOGJmM2FkNzU3MGYxIiwidCI6IjM2ODNjNDYzLWYwZDMtNDM3Yy04Mzg3LWZiZTUxZWEwYzFjOSJ9)**
+
+No login required — click through the filters and navigate between pages.
 
 ---
 
